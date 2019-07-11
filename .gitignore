@@ -1,2 +1,2 @@
 /duck/settings.py
-/duck/__pycache__
+/duck/__pycache__/*.pyc
